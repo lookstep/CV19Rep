@@ -5,11 +5,9 @@ C:\Users\Ярослав\Source\Repos\CV19\bin\Debug\net5.0-windows\CV19.runtimec
 C:\Users\Ярослав\Source\Repos\CV19\bin\Debug\net5.0-windows\CV19.dll
 C:\Users\Ярослав\Source\Repos\CV19\bin\Debug\net5.0-windows\ref\CV19.dll
 C:\Users\Ярослав\Source\Repos\CV19\bin\Debug\net5.0-windows\CV19.pdb
-C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\MainWindow.g.cs
 C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\App.g.cs
 C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\CV19_MarkupCompile.cache
 C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\CV19_MarkupCompile.lref
-C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\MainWindow.baml
 C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\CV19.g.resources
 C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\CV19.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\CV19.AssemblyInfoInputs.cache
@@ -19,3 +17,6 @@ C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\CV19.dll
 C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\ref\CV19.dll
 C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\CV19.pdb
 C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\CV19.genruntimeconfig.cache
+C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\CV19.csproj.AssemblyReference.cache
+C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\View\Windows\MainWindow.g.cs
+C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\View\Windows\MainWindow.baml
