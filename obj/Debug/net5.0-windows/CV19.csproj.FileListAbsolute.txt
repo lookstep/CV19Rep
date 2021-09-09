@@ -20,3 +20,4 @@ C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\CV19.genrunti
 C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\CV19.csproj.AssemblyReference.cache
 C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\View\Windows\MainWindow.g.cs
 C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\View\Windows\MainWindow.baml
+C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
