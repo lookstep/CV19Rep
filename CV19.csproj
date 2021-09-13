@@ -13,4 +13,8 @@
     <Folder Include="Test\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="FontAwesome5" Version="2.1.4" />
+  </ItemGroup>
+
 </Project>

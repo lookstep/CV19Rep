@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HpU41Ujc+VUEaq9sWtbxk+6G+IuFdol8C3G1FOp3VlnKXL1e/sD+NdnHb15e0gpnhFB0WTLgLtFslTGQic6pJQ==",
+  "dgSpecHash": "GO1oHYhYFTxFdxCz8X7UmcyIw36AUNH+3h1BARD7ycNYMr21mfWyNGAE0akKvUkW6giX+AR0LEusLoy1cUFOjg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ярослав\\Source\\Repos\\CV19\\CV19.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ярослав\\.nuget\\packages\\fontawesome5\\2.1.4\\fontawesome5.2.1.4.nupkg.sha512"
+  ],
   "logs": []
 }
