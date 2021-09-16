@@ -46,6 +46,10 @@
             "FontAwesome5": {
               "target": "Package",
               "version": "[2.1.4, )"
+            },
+            "OxyPlot.Wpf": {
+              "target": "Package",
+              "version": "[2.0.0, )"
             }
           },
           "imports": [
