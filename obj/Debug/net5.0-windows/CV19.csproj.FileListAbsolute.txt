@@ -24,3 +24,5 @@ C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\GeneratedInte
 C:\Users\Ярослав\Source\Repos\CV19\bin\Debug\net5.0-windows\FontAwesome5.Net.dll
 C:\Users\Ярослав\Source\Repos\CV19\bin\Debug\net5.0-windows\FontAwesome5.dll
 C:\Users\Ярослав\Source\Repos\CV19\obj\Debug\net5.0-windows\CV19.csproj.CopyComplete
+C:\Users\Ярослав\Source\Repos\CV19\bin\Debug\net5.0-windows\OxyPlot.dll
+C:\Users\Ярослав\Source\Repos\CV19\bin\Debug\net5.0-windows\OxyPlot.Wpf.dll

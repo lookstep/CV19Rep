@@ -68,8 +68,7 @@ namespace CV19.ViewModels
             var dataPoints = new List<DataPoint>((int)(360 / 0.1));
             for (var x = 0d; x < 360; x += 0.1)
             {
-                const double toRad = Math.PI / 180;
-                var y = Math.Sin(2 * Math.PI * x * toRad);
+                double y = Math.Pow(x, 2);
                 dataPoints.Add(new DataPoint { XValue = x, YValue = y });
             }
             TestDataPoint = dataPoints;

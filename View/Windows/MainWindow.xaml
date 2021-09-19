@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:vm="clr-namespace:CV19.ViewModels"
         xmlns:fa="http://schemas.fontawesome.com/icons/"
-        xmlns:local="clr-namespace:CV19"
+        xmlns:local="clr-namespace:CV19" 
+        xmlns:oxy="http://oxyplot.org/wpf"
         mc:Ignorable="d"
         Title="{Binding Title}" 
         Height="450" Width="800" >
@@ -34,7 +35,18 @@
         </StatusBar>
 
         <TabControl>
-            <TabItem>
+            <TabItem Header="График">
+                <oxy:Plot>
+                    <oxy:Plot.Axes>
+                        <oxy:LinearAxis 
+                        Position="Left" />
+                        <oxy:LinearAxis 
+                        Position="Bottom" />
+                    </oxy:Plot.Axes>
+                    <oxy:LineSeries Color="Red" ItemsSource="{Binding TestDataPoint}" DataFieldX="XValue" DataFieldY="YValue"/>
+                </oxy:Plot>
+            </TabItem>
+            <TabItem Visibility="Collapsed">
                 <TabItem.Header>
                     <StackPanel Orientation="Horizontal">
                         <fa:ImageAwesome Icon="Regular_File" Height="13" Margin="0,0,5,0" Foreground="Red"></fa:ImageAwesome>
@@ -71,7 +83,6 @@
                     </Ellipse>
                 </Grid>
             </TabItem>
-            <TabItem Header="Вкладка 2 "></TabItem>
         </TabControl>
     </DockPanel>
 </Window>
